@@ -44,10 +44,7 @@ Vậy là quá đủ để gọi là "full-stack" rồi :v
 
 Trích từ [FAQ của Kotlin](https://kotlinlang.org/docs/reference/faq.html) :
 
-```
-Kotlin can be used for any kind of development, be it server-side, client-side web and Android. With Kotlin/Native currently in the works, support for other platforms such as embedded systems, macOS and iOS is coming. People are using Kotlin for mobile and server-side applications, client-side with JavaScript or JavaFX, and data science, just to name a few possibilities.
-```
-
+> Kotlin can be used for any kind of development, be it server-side, client-side web and Android. With Kotlin/Native currently in the works, support for other platforms such as embedded systems, macOS and iOS is coming. People are using Kotlin for mobile and server-side applications, client-side with JavaScript or JavaFX, and data science, just to name a few possibilities.
 
 ### Tại sao dùng kotlin
 - Code Kotlin [ngắn hơn code Java ~ 40%](https://kotlinlang.org/docs/reference/faq.html#what-advantages-does-kotlin-give-me-over-the-java-programming-language).
