@@ -6,9 +6,7 @@ Học lập trình Kotlin theo phong cách PyMi.vn - một phong cách trẻ tr�
 ## Kotlin là gì?
 Trên [trang chủ của Kotlin](https://kotlinlang.org/) có ghi
 
-```
-Statically typed programming language for modern multiplatform applications 100% interoperable with Java™ and Android™
-```
+> Statically typed programming language for modern multiplatform applications 100% interoperable with Java™ and Android™
 
 Kotlin là một ngôn ngữ lập trình, chạy trên nền tảng máy ảo Java (JVM),
 tương thích hoàn toàn với Java và Android.
