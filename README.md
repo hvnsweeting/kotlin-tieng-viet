@@ -1,3 +1,3 @@
-# My Awesome Book
+# Học Kotlin một cách xì tin 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Học lập trình Kotlin theo phong cách PyMi.vn - một phong cách trẻ trâu - một phong cách xì tin - và chuyên nghiệp :v
