@@ -114,3 +114,8 @@ x is in the range
 ```
 
 Sau `->` có thể là một khối lệnh (block) nằm trong `{  }`
+
+## Bài tập FizzBuzz
+Một bài toán kinh điển để kiểm tra lập trình viên có khả năng code hay không:
+
+> Cho các số từ 1 đến 20, nếu số đó chia hết cho 3, in ra màn hình chữ "Fizz", nếu chia hết cho 5, in ra màn hình chữ "Buzz". Nhưng nếu số đó chia hết cho cả 3 và 5 thì in ra màn hình chữ "FizzBuzz". Còn lại in ra số đó.
