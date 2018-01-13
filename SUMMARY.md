@@ -1,7 +1,7 @@
 # Summary
 
-* [Setup](chapter1.md)
-* [Number](chapter2.md)
-* [String](chapter3.md)
-* [Control flow: if/for/when/while](chapter4.md)
+* [Setup](01_setup.md)
+* [Number](02_number.md)
+* [String](03_text.md)
+* [Control flow: if/for/when/while](04_control_flow.md)
 * [Function](function.md)
