@@ -153,7 +153,7 @@ true
 false
 ```
 
-## TODO các function xử lý string
+## Các function xử lý string
 
 Tương tự như Python
 
@@ -163,3 +163,5 @@ true
 >>> "Kotlin".endsWith("lin")
 true
 ```
+
+Xem đầy đủ ở tài liệu: https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.text/index.html
