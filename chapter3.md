@@ -139,4 +139,27 @@ Name: PyMI has length 4
 
 Tính năng này mới có trong Python 3.6.
 
+
+## Kiểm tra phần tử
+
+Dùng `in` và `!in`:
+
+```kotlin
+>>> "Ko" in "Kotlin"
+true
+>>> "KO" !in "Kotlin"
+true
+>>> "JAVA" in "Kotlin"
+false
+```
+
 ## TODO các function xử lý string
+
+Tương tự như Python
+
+```kotlin
+>>> "Kotlin".startsWith("Kot")
+true
+>>> "Kotlin".endsWith("lin")
+true
+```
