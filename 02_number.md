@@ -165,5 +165,21 @@ error: the integer literal does not conform to the expected type Boolean
 3 <= 4 <= 5
 ```
 
+## Kiểm tra kiểu
+Dùng `is`:
+
+```kotlin
+>>> "abc" is String
+true
+>>> 123 is Int
+true
+>>> true is Boolean
+true
+>>> false is String
+error: incompatible types: String and Boolean
+false is String
+```
+
+
 Tính toán trên Kotlin có vẻ không được vui cho lắm. Hãy chuyển sang xử lý string
 ở bài tiếp theo.
