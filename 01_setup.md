@@ -49,5 +49,26 @@ java -jar hello.jar
 Hello, PyMI.vn
 ```
 
+## Dùng REPL
+Bật: mở terminal, gõ `kotlinc-jvm`
+
+```
+$ kotlinc-jvm
+Welcome to Kotlin version 1.2.10 (JRE 1.8.0_151-8u151-b12-0ubuntu0.16.04.2-b12)
+Type :help for help, :quit for quit
+>>>
+
+```
+
+thoát: gõ `:quit`
+
+NOTE: thi thoảng REPL bị treo và dùng rất nhiều CPU, bấm phím Ctrl C để thoát.
+
+
+## Vài quy ước
+- Dùng 4 dấu space để thụt dòng code, không dùng tab
+- Việc thụt code (indentation) trong Kotlin không có ý nghĩa gì ngoài cho đẹp.
+- Dấu `{` của mỗi block nên đặt cuối dòng code thay vì ghi trên 1 dòng riêng.
+
 Khi đã cài đặt xong môi trường, sẵn sàng để bước vào một hành trình mới
 ở các bài tiếp theo.
